@@ -1,2 +1,2 @@
 # LearnBlender
-学习Blender
+学习Blender建模
